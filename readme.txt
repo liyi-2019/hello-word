@@ -6,3 +6,4 @@ love forever
 hahah
 add dev
 xc
+git has two branches
